@@ -4,7 +4,7 @@
 * [Installation & Integration](installation.md)
 * [Creating Kendo UI Component](creating-kendo-ui-component.md)
 * [Spreadsheet](spreadsheet/README.md)
-  * Basic Usage
+  * [Basic Usage](spreadsheet/basic-usage.md)
   * Styling
   * Save Manually
   * Realtime Editing
