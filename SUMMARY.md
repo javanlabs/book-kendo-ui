@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Intro](README.md)
-* Installation
+* [Installation & Integration](installation.md)
+* [Creating Kendo UI Component](creating-kendo-ui-component.md)
 * Spreadsheet
   * Basic Usage
   * Styling

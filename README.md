@@ -36,3 +36,5 @@ Komponen-komponen di atas tentunya jarang dijumpai di sebuah aplikasi CRUD seder
 
 ![Contoh aplikasi Kendo UI](.gitbook/assets/image.png)
 
+
+
