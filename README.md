@@ -42,3 +42,7 @@ Komponen-komponen di atas tentunya jarang dijumpai di sebuah aplikasi CRUD seder
 Kendo UI = jQuery UI = Bootstrap + tons of plugins, hanya saja Kendo UI lebih lengkap, konsisten, dan robust.
 {% endhint %}
 
+{% hint style="warning" %}
+Tidak menutup kemungkinan juga menggabungkan Kendo UI dan Bootstrap sekaligus, dimana Bootstrap digunakan untuk melakukan layouting tampilan dan handle responsiveness dan Kendo UI fokus untuk setiap komponen UI.
+{% endhint %}
+
