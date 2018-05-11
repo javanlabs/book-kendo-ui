@@ -6,7 +6,9 @@ description: >-
 
 # Intro
 
-Kendo UI menyediakan lebih dari 70 komponen siap pakai mulai dari form control, navigasi, chart, treeview, panel, hingga spreadsheet. Dengan menggunakan Kendo UI diharapkan proses development menjadi lebih cepat, lebih menyenangkan bagi programmer, dan menghasilkan software yang konsisten dari sisi user experience.
+Jika istilah UI framework masih terlalu abstrak, maka anggap saja **Kendo UI ini adalah sekumpulan komponen \(library\) untuk membuat antarmuka web** yang lebih interaktif seperti layaknya aplikasi desktop.
+
+Kendo UI menyediakan lebih dari 70 komponen siap pakai mulai dari datepicker, autocomplete, calendar, navigasi, chart, treeview, splitter, hingga spreadsheet. Dengan menggunakan Kendo UI diharapkan proses development menjadi lebih cepat, lebih menyenangkan bagi programmer, dan menghasilkan software yang konsisten dari sisi user experience.
 
 ## Kendo UI vs Bootstrap
 
@@ -36,5 +38,7 @@ Komponen-komponen di atas tentunya jarang dijumpai di sebuah aplikasi CRUD seder
 
 ![Contoh aplikasi Kendo UI](.gitbook/assets/image.png)
 
-
+{% hint style="info" %}
+Kendo UI = jQuery UI = Bootstrap + tons of plugins, hanya saja Kendo UI lebih lengkap, konsisten, dan robust.
+{% endhint %}
 
