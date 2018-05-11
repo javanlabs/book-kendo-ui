@@ -29,9 +29,9 @@ Lalu cobalah bermain-main dengan membuat elemen HTML biasa seperti form, tabel, 
 
 **SURPRISE!!!**
 
-Berbeda dengan Bootstrap yang ketika CSS-nya di-include tampilan HTML web langsung kelihatan cantik, Kendo UI ternyata tidak memberikan style default kepada elemen HTML.
-
 ![Style bawaan HTML tidak di-override oleh Kendo UI](.gitbook/assets/image%20%281%29.png)
+
+Berbeda dengan Bootstrap yang ketika CSS-nya di-include tampilan HTML web langsung kelihatan cantik, Kendo UI ternyata tidak memberikan style default kepada elemen HTML.
 
 Di Kendo UI, kita perlu melakukan instansiasi secara manual kepada setiap komponen sesuai kebutuhan.
 
